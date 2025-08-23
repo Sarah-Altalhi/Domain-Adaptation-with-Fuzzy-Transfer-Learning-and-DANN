@@ -1,5 +1,13 @@
 # Domain-Adaptation-with-Fuzzy-Transfer-Learning-and-DANN
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Domain Adaptation](https://img.shields.io/badge/Domain-Adaptation-lightgrey?style=flat-square)
+![Transfer Learning](https://img.shields.io/badge/Transfer-Learning-green?style=flat-square)
+![Adversarial Networks](https://img.shields.io/badge/Adversarial-Networks-red?style=flat-square)
+
+
+
 This project explores transfer learning and domain adaptation for robust machine learning across datasets with distribution shifts.
 It combines:
 
